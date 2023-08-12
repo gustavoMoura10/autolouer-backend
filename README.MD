@@ -1,3 +1,7 @@
+#CREATE FILE APPLICATION PROPERTIES AND FOLDER RESOURCES AT MAIN
+#/src/main/resources/application.properties
+
+#ADD THIS
 server.port=
 
 #DATABASE CONFIGURATION
