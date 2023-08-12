@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class App {
     @RequestMapping("/")
     String home() {
-        return "QUERO GOZARR!!!!";
+        return "HELLO!";
     }
 
     public static void main(String[] args) {
